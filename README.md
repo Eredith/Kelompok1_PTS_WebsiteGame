@@ -3,44 +3,34 @@
 
 ### Dev Team:
 - Mario Richie Lim / (https://github.com/000Twilight) (00000067355)
-    - Lead Developer/Coordinator
-    - Algorithm Developer (Minigame, Activity/Status Functions, Data Processing)
-    - UI Designer (Wireframe/Layout, General UI Design, Status Bar Design, Draggable Character)
+    - Algorithm Developer (Minigame Game 1, Data Processing, Time + Level)
 - Aero Jacques Timorence Manukoa / (https://github.com/Eredith) (00000067630)
-    - Visual Developer (Character Design, Background Design)
-    - Algorithm Developer (Clock System, Background Change)
+    - Algorithm Developer (Status Bar, Middle Menu, Activity/Status Functions)
+    - UI Designer (Status Bar Design)
 - Marco Julius Gregory Tobing (https://github.com/marcogreg04) (00000067321)
-    - Visual Developer (Custom Button Design & CSS)
-    - Algorithm Developer (Minigame Character Movement, Minigame Button Functionality)
+    - Algorithm Developer (Status Bar, Middle Menu, Activity/Status Functions)
+    - UI Designer (Status Bar Design)
 - Caesar Eka Nathanael (https://github.com/Fluk00) (00000067638)
-    - Audio Design (Background Music, SFX)
-    - Visual Developer (Character Design, UI Design)
+    - Algorithm Developer (Minigame Game 2 (Flappy Bird), Loading Bar)
+    - File Data Handler (Holds All Files)
 - Alexander Bryan Triharja (https://github.com/alexnderbryan) (00000065475)
+    - Visual Developer (Character Design, Background Design, Website Design(HTML + CSS, 99%))
+    - UI Designer (Wireframe/Layout, General UI Design)
 
 ### Aturan
-1. Ini endless game. Main sampe mati.
-2. Sebelum bermain harap memilih avatar dan memberikan nama pet, kemudian klik Main.
-3. Ada 4 tombol dan 4 status bar (Makan, Tidur, Main, Obat) serta 1 status bar Level.
-4. Untuk meningkatkan status bar, hanya perlu menekan tombol sekali, kemudian hanya akan berhenti apabila pemain mengklik lagi atau status bar penuh.
-5. Setiap tombol yang ditekan/aktivitas yang dilakukan akan memiliki pengaruh yang berbeda terhadap status lainnya.
-6. Permainan dapat dipause dengan mengklik tombol di kanan layar.
-7. Permainan akan berakhir apabila status bar Health (merah) atau Main (kuning) habis.
-    - Apabila status bar Makan (hijau) atau status bar Tidur (biru) habis, pet tidak akan mati hingga status bar Health habis juga
-8. Pemain dapat keluar ke halaman depan dengan mengklik tombol di kiri layar.
-9. Ketika pemain mengklik tombol Main, akan masuk ke minigame "Sentuh Om Fritz", dengan aturan sebagai berikut:
-    - Pemain menggerakkan karakter dengan Arrow Keys keyboard atau dengan tombol pada layar.
-    - Karakter harus menyentuh Om Fritz jika ingin mendapat +2 skor.
-    - Jika gagal menyentuh Om Fritz maka akan mendapat -1 skor.
-    - Akumulasi skor akan berpengaruh terhadap status bar Level dan status bar Main, serta mengurangi Makan dan Tidur.
-    - Untuk keluar dari minigame, pencet Main lagi.
-    - Kadang Om Fritz ga mau disentuh, coba disentuh 2 kali.
-    - Terkadang permainan akan dimulai dengan skor negatif acak, hal ini untuk mempersulit pemain memenuhi status bar main
-10. Ada 3 evolusi peliharaan: Bayi (1-5), Remaja (6-10), dan Dewasa (11 dst.).
-11. Level up akan terjadi apabila bar level up penuh, excess xp tidak akan diakumulasi ke level berikutnya.
-12. Simulasi waktu: 1 detik realtime = 1 menit ingame
+1. Game survival.
+2. Pertama-tama, pemain akan memilih avatar dan nama untuk avatar.
+3. Kedua, akan ada 5 Tombol (Makan, Obat, Tidur, Game 1, Game 2)
+4. Selain kelima Tombol, akan ada 4 status bar (Health, Food, Sleep, Activity)
+5. Status bar akan berkurang seiring waktu berjalan
+6. Status bar akan meningkat jika menekan tombol
+7. Ketika tombol Game 1 atau Game 2 ditekan, maka akan muncul permainan
+8. Untuk keluar atau balik, akan terdapat tombol untuk balik (Back to Home)
+9. Untuk berhenti atau memulai permainannya kembali, akan ada tombolnya juga
+10. Level akan bertambah setiap jam yang lewat
+11. Rasio waktu : 1 menit ingame = 1 detik real life
 
 ### Catatan
-- Tugas UTS PTI Lecture TA 2022/2023 (Kelas B, Dosen: Fenina Adline Twince Tobing).
-- Background music seharusnya berjalan otomatis, namun hal itu tergantung browser. Beberapa browser tidak bisa menjalankan bgm secara otomatis.
-- Ada tombol about untuk menampilkan data singkat tim dan tombol bantuan untuk bantuan singkat.
-- Om Fritz adalah maskot kami
+- Tugas UTS PTI Lecture TA 2022/2023 
+- Game kami belum selesai atau incomplete, kami minta maaf jika terdapat bugs 
+- If the Avatar change or the website goes too slow, sorry for the inconvenience
