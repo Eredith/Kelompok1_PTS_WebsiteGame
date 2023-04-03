@@ -2,19 +2,20 @@
 ## Kelas B/Kelompok 3
 
 ### Dev Team:
--Mario Richie Lim / (https://github.com/000Twilight) (00000067355)
+- Mario Richie Lim / (https://github.com/000Twilight) (00000067355)
     - Lead Developer/Coordinator
     - Algorithm Developer (Minigame, Activity/Status Functions, Data Processing)
     - UI Designer (Wireframe/Layout, General UI Design, Status Bar Design, Draggable Character)
 - Aero Jacques Timorence Manukoa / (https://github.com/Eredith) (00000067630)
     - Visual Developer (Character Design, Background Design)
     - Algorithm Developer (Clock System, Background Change)
-- Friedrich Litani Santoso/[Fritz](https://github.com/Friedrich19) (00000068855)
+- Marco Julius Gregory Tobing (https://github.com/marcogreg04) (00000067321)
     - Visual Developer (Custom Button Design & CSS)
     - Algorithm Developer (Minigame Character Movement, Minigame Button Functionality)
-- Gerard Stefan Gani/[Stefan](https://github.com/thestrixy) (00000068198)
+- Caesar Eka Nathanael (https://github.com/Fluk00) (00000067638)
     - Audio Design (Background Music, SFX)
     - Visual Developer (Character Design, UI Design)
+- Alexander Bryan Triharja (https://github.com/alexnderbryan) (00000065475)
 
 ### Aturan
 1. Ini endless game. Main sampe mati.
